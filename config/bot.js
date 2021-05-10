@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        prefix: '=',
+        prefix: '+',
         activity: 'crafting',
     },
 
