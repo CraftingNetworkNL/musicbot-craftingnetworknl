@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'help',
+    name: 'help51286643174987340173407',
     aliases: ['h'],
     category: 'Core',
     utilisation: '{prefix}help <command name>',

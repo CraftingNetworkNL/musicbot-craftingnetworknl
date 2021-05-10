@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'debug',
+    name: 'deb7329478378947298789ug',
     aliases: [],
     category: 'Infos',
     utilisation: '{prefix}debug',

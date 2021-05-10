@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'ping',
+    name: 'p236y46253645264726ing',
     aliases: [],
     category: 'Infos',
     utilisation: '{prefix}ping',
